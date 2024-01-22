@@ -1,4 +1,4 @@
-### Hi, i'm Ospanova Aisha⭐️
+### Hi, i'm Aisha⭐️
 
  👩🏻‍💻Computer Science student at KBTU<br/>
  
