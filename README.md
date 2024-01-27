@@ -3,7 +3,7 @@
  👩🏻‍💻Computer Science student at KBTU<br/>
  🫧currently learning about django framework and data analytics<br/>
  🫧interested in ios development
- <img align = "right" alt = "coding" width= "400" scr = "https://assets-v2.lottiefiles.com/a/f2c7b4b4-1180-11ee-a424-ef00b7a877a3/GNbDDkX4b9.gif">
+ <img align = "right" alt = "coding" width= "400" src = "https://assets-v2.lottiefiles.com/a/f2c7b4b4-1180-11ee-a424-ef00b7a877a3/GNbDDkX4b9.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aisha-ospanova-a48676241) 
